@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Feb 05 15:24:37 IST 2018
+#Mon Feb 05 16:22:08 IST 2018
 76.base=C\:\\Users\\stl.ppt\\Desktop\\hello\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 5.base=C\:\\Users\\stl.ppt\\Desktop\\hello\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 91.file=C\:\\Users\\stl.ppt\\Desktop\\hello\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\cordova-js-src\\exec.js
